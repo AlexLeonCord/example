@@ -12,6 +12,9 @@ const cedulaAdministrador = document.getElementById('cedula_admin')
 const nombreAdministrador = document.getElementById('nombre_admin')
 const telefonoAdministrador = document.getElementById('telefono_admin')
 const correoAdministrador = document.getElementById('correo_admin')
+const btntitle = document.getElementById('btntitle')
+
+ 
 
 
 let opcion = ''
@@ -32,7 +35,7 @@ btnCerrar.addEventListener('click', () => {
 
 })
 
-btnGoogle.addEventListener('click', () => {
+btntitle.addEventListener('mouseover', () => {
 
     alert("ggggggggggggg")
 
