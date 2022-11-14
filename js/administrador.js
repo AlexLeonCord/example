@@ -32,6 +32,12 @@ btnCerrar.addEventListener('click', () => {
 
 })
 
+btnGoogle.addEventListener('click', () => {
+
+    alert("ggggggggggggg")
+
+})
+
 
 btnClose.addEventListener('click', () => {
 
