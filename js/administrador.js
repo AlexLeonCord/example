@@ -35,7 +35,7 @@ btnCerrar.addEventListener('click', () => {
 
 })
 
-btntitle.addEventListener('mouseover', () => {
+btnGoogle.addEventListener('click', () => {
 
     alert("ggggggggggggg")
 
